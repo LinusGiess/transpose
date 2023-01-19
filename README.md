@@ -54,4 +54,3 @@ Transposed Song: D A H C C C H H H A A H A D H H H H H D A H C C C H H H D D C A
 # Known issues
 
 The script lacks proper input validation and error handling. Specially it will accept invalid keys not present in the chromatic scale and not throw an error. This could be improved in future version.
-
